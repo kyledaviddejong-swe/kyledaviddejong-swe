@@ -10,6 +10,9 @@ I'm studying computer science with a focus on software engineering. Most of my p
 - **[Java Validation and Unit Tests](https://github.com/kyledaviddejong-swe/java-service-tests)**  
   Contact, task, and appointment services with 89 passing JUnit tests. The focus is on checking what happens at the boundaries, rejecting invalid input, and protecting appointment dates from unintended changes through shared references. Includes the source and a Maven build.
 
+- **[Android Warehouse Inventory](https://github.com/kyledaviddejong-swe/android-inventory-manager)**  
+  A Java Android app with SQLite storage, account creation and login, searchable inventory, and optional zero-stock SMS alerts. Includes the source, build instructions, and regression tests.
+
 - **[3D Japanese Restaurant Scene (OpenGL)](https://github.com/kyledaviddejong-swe/opengl-izakaya-scene)**  
   An izakaya interior assembled from reusable objects, with textured surfaces, lighting, and camera controls. Screenshots show the finished scene, and the write-up explains my work within the supplied rendering framework.
 
